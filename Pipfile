@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 django = "*"
-black = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
