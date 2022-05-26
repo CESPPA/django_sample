@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.11-rc-slim
 
 # update system, upgrade pip and install pipenv
 RUN apt-get update \
